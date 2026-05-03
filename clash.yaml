@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "http://xa2fa3ce.sugar.rent/api/v1/client/subscribe?token=53d6dda45ac670e3fe93608cad508b13"
+    url: "https://node.ymzyong.com/sub"
     type: http
     interval: 86400
     health-check:
@@ -11,7 +11,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport2:
-    url: "http://152.69.212.143:3001/kuitqez3Wmcuj1GMVZkD/download/collection/VPS"
+    url: "https://sub.552551.xyz/kuitqez3Wmcuj1GMVZkD/download/collection/VPS"
     type: http
     interval: 86400
     health-check:
